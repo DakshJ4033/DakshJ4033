@@ -10,21 +10,21 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/fb/94/e1/fb94e102413716338169178794fdf02d.gif"  />
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DakshJ4033&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DakshJ4033&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DakshJ4033&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DakshJ4033&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="145" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DakshJ4033&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5" height="145" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DakshJ4033&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false" height="145" alt="languages graph"  />
 </div>
 
 ###
 
 <h2 align="left">I code with</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/fb/94/e1/fb94e102413716338169178794fdf02d.gif"  />
 
 ###
 
