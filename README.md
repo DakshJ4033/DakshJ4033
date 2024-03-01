@@ -1,24 +1,23 @@
-<h4 align="left">Hey 👋! <br><br>My name is Daksh Jain and I'm a fourth-year Computer Science student at the University of California, Davis.</h4>
+<h3 align="left">Hey 👋! <br><br>My name is Daksh Jain and I'm a fourth-year Computer Science student at the University of California, Davis.</h3>
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">About Me:</h2>
 
 ###
 
-<p align="left">🔭 Currently working on an iOS app that automates habit tracking by utilizing speech recognition and LID LLMs.<br><br>🌱 Currently learning SwiftUI, Reinforcement Learning, and Deep Learning.<br><br>🤝 Always looking for teammates/partners to work on something cool with.<br><br>📌️ Enjoy working out, hiking, exploring new food spots, and traveling!<br><br>⚡ Fun fact: I don't really know what I'm doing but I'm usually able to pick up things quickly and make it work :)</p>
+<p align="left">• 🔭 I'm currently working on an iOS app that automates habit tracking by utilizing speech recognition and LID LLMs.<br><br>• 🌱 I'm currently learning SwiftUI, Reinforcement Learning, and Deep Learning.<br><br>• 🤝 I'm always looking for teammates/partners to work on something cool with.<br><br>•📌️ I enjoy working out, hiking, exploring new food spots, and traveling!</p>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DakshJ4033&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DakshJ4033&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DakshJ4033&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DakshJ4033&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DakshJ4033&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
@@ -46,11 +45,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
 ###
 
-<h2 align="left">Social Links</h2>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
