@@ -6,6 +6,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/fb/94/e1/fb94e102413716338169178794fdf02d.gif"  />
+
+###
+
 <p align="left">🔭 Currently working on an iOS app that automates habit tracking by utilizing speech recognition and LID LLMs.<br><br>🌱 Currently learning SwiftUI, Reinforcement Learning, and Deep Learning.<br><br>🤝 Always looking for teammates/partners to work on something cool with.<br><br>📌️ Enjoy working out, hiking, exploring new food spots, and traveling!<br><br>⚡ Fun fact: I don't really know what I'm doing but I'm usually able to pick up things quickly and make it work :)</p>
 
 ###
@@ -19,12 +25,6 @@
 ###
 
 <h2 align="left">I code with</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/fb/94/e1/fb94e102413716338169178794fdf02d.gif"  />
 
 ###
 
