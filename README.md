@@ -1,4 +1,4 @@
-<h3 align="left">Hey There! 👋 <br><br>My name is Daksh Jain and I'm a fourth-year Computer Science student at the University of California, Davis.</h3>
+<h3 align="left">Hey there! 👋 <br><br>My name is Daksh Jain and I'm a fourth-year Computer Science student at the University of California, Davis.</h3>
 
 ###
 
