@@ -6,12 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/fb/94/e1/fb94e102413716338169178794fdf02d.gif"  />
-
-###
-
 <p align="left">🔭 Currently working on an iOS app that automates habit tracking by utilizing speech recognition and LID LLMs.<br><br>🌱 Currently learning SwiftUI, Reinforcement Learning, and Deep Learning.<br><br>🤝 Always looking for teammates/partners to work on something cool with.<br><br>📌️ Enjoy working out, hiking, exploring new food spots, and traveling!<br><br>⚡ Fun fact: I don't really know what I'm doing but I'm usually able to pick up things quickly and make it work :)</p>
 
 ###
@@ -62,16 +56,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/dakshjain4033/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="jaindaksh135@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="discord.com/users/dakshj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/dakshj_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
 
